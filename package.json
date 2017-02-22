@@ -1,0 +1,17 @@
+{
+  "name": "zhihu_crawer",
+  "version": "1.0.0",
+  "description": "zhihu crawer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "author": "v4if",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "cheerio": "^0.22.0",
+    "superagent": "^3.4.4"
+  }
+}
